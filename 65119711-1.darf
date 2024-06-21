@@ -19,8 +19,8 @@ String calculateTriangleArea(double sideA, double sideB, double sideC) {
 
 void main() {
 
-  double sideA = 3;
-  double sideB = 4;
-  double sideC = 5;
+  double sideA = 5;
+  double sideB = 6;
+  double sideC = 7;
   print(calculateTriangleArea(sideA, sideB, sideC));
 }
